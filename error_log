@@ -1,0 +1,335 @@
+[08-Mar-2023 04:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/todo.php(2): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:20:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/todo.php(2): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:20:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:21:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:21:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:21:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:24:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 04:24:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:16:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:16:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:19:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:20:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:23:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/todo.php(2): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/todo.php(2): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:24:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:26:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:27:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:27:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:27:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:27:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:27:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:30:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:30:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:30:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'rplidnso_Naufal05R'@'localhost' (using password: YES) in /home/rplidnso/nr-todo.rplidnsolo.com/db.php:8
+Stack trace:
+#0 /home/rplidnso/nr-todo.rplidnsolo.com/db.php(8): mysqli_connect()
+#1 /home/rplidnso/nr-todo.rplidnsolo.com/function.php(3): require('/home/rplidnso/...')
+#2 /home/rplidnso/nr-todo.rplidnsolo.com/index.php(3): require('/home/rplidnso/...')
+#3 {main}
+  thrown in /home/rplidnso/nr-todo.rplidnsolo.com/db.php on line 8
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Undefined variable $todo in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 45
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 45
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Undefined variable $todo in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 48
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 48
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Undefined variable $todo in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 52
+[08-Mar-2023 06:34:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/rplidnso/nr-todo.rplidnsolo.com/edit.php on line 52
